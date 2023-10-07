@@ -30,9 +30,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+
 <p>
-<img src="[https://imgur.com/a/OYXgcxv]" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+[<img src="![IMG_1297](https://github.com/CCzke/osticket-prereqs/assets/146891429/6ba3df51-d529-4f91-acb6-82d00bf70cec)]
+
+
 <p>
 After creating the Virtual Machine and enabling the IIS with CGI and HTTP features I downloaded PHP Manager and in this image I added a new PHP version with cgi.  
 </p>
