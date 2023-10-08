@@ -30,10 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-
-<p>
-[<img src="![IMG_1297](https://github.com/CCzke/osticket-prereqs/assets/146891429/6ba3df51-d529-4f91-acb6-82d00bf70cec)]
-
+![998211AA-2A88-41F2-844E-F87CEFE0DFEC_1_102_o](https://github.com/CCzke/osticket-prereqs/assets/146891429/be6cb020-7fd9-4fda-bcee-d3b59288b345)
 
 <p>
 After creating the Virtual Machine and enabling the IIS with CGI and HTTP features I downloaded PHP Manager and in this image I added a new PHP version with cgi.  
@@ -41,16 +38,19 @@ After creating the Virtual Machine and enabling the IIS with CGI and HTTP featur
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+  ![84A87AC0-8D3B-4A95-9308-5A2623E51BAA_1_102_o](https://github.com/CCzke/osticket-prereqs/assets/146891429/0a7bf3e6-e275-49cb-906f-14c84e9be446)
+
 <p>
-In this image, I installed Heidi SQL to create a new database called "osTicket" to finish setting up the osTicket browser. 
+In this image, I successfully installed the "osTicket" and enabled a few features so it runs smoothly.  
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![IMG_1333](https://github.com/CCzke/osticket-prereqs/assets/146891429/cd611d00-edbd-4dd3-85ac-3beca35416f9)
+
+  
 </p>
+
 <p>
 Successfully downloaded and installed all the prerequisites for the osTicket system.
 </p>
